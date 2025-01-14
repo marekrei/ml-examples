@@ -1,1 +1,3 @@
-# ml-examples
+# Machine Learning Examples
+
+Created by Marek Rei
